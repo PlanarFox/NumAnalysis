@@ -49,3 +49,5 @@ if __name__ == "__main__":
     I = func(t)
     I_hat = hermite_func(t, tk, I_tk)
     print(np.abs(I_hat - I).max())
+
+# git learning
